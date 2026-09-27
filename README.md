@@ -1,4 +1,4 @@
-# bom_analysis
+# Hierarchical Equipment BOM & Quality Analytics Engine
 
 A production-oriented analytics engine for modeling, traversing, validating, and analyzing complex **Bill of Materials (BOM)** hierarchies. The system combines **Python, SQL recursive CTEs, automated data-quality validation, and Power BI** to transform multi-level equipment structures into analysis-ready datasets.
 
