@@ -1,0 +1,23 @@
+# exclude everything
+temp/*
+
+*.pyc
+**/**/*.pyc
+.vscode/*
+
+bom_analysis_smerrim.egg-info/*
+*.egg-info/*
+
+*.log
+**/*.log
+
+examples/.ipynb_checkpoints/
+examples/.ipynb_checkpoints/*
+examples/files/.ipynb_checkpoints/
+examples/files/.ipynb_checkpoints/*
+
+# exception to the rule
+!temp/.gitkeep
+
+docs/build/
+docs/build/*
